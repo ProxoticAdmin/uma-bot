@@ -1,0 +1,2021 @@
+[
+    {
+        "support_id": "support_card_s_20013",
+        "name": "Eishin Flash",
+        "type": "speed",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 65,
+                        "speed_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 40,
+                        "specialty_priority": 35
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 62,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 23,
+                        "race_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 37,
+                        "specialty_priority": 35
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 60,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 3,
+                        "initial_friendship": 22,
+                        "race_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 35,
+                        "specialty_priority": 30
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 57,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 1,
+                        "initial_friendship": 21,
+                        "race_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 32,
+                        "specialty_priority": 25
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 55,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 0,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20014",
+        "name": "Narita Taishin",
+        "type": "speed",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 45,
+                        "speed_bonus": 1,
+                        "training_effectiveness": 10,
+                        "initial_speed": 20,
+                        "initial_friendship": 30,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 2,
+                        "hint_frequency": 40,
+                        "specialty_priority": 20
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 45,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 8,
+                        "initial_speed": 20,
+                        "initial_friendship": 28,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "hint_levels": 2,
+                        "hint_frequency": 37,
+                        "specialty_priority": 20
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 41,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 7,
+                        "initial_speed": 15,
+                        "initial_friendship": 27,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "hint_levels": 2,
+                        "hint_frequency": 35,
+                        "specialty_priority": 20
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 38,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 6,
+                        "initial_speed": 10,
+                        "initial_friendship": 26,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "hint_levels": 2,
+                        "hint_frequency": 32,
+                        "specialty_priority": 20
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 35,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_speed": 0,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20023",
+        "name": "Sweep Tosho",
+        "type": "speed",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 30,
+                        "mood_effect": 40,
+                        "training_effectiveness": 10,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_frequency": 20,
+                        "specialty_priority": 50,
+                        "skill_point_bonus": 1
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 28,
+                        "mood_effect": 37,
+                        "training_effectiveness": 10,
+                        "initial_friendship": 23,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "hint_frequency": 20,
+                        "specialty_priority": 46,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 27,
+                        "mood_effect": 35,
+                        "training_effectiveness": 8,
+                        "initial_friendship": 22,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "hint_frequency": 20,
+                        "specialty_priority": 42,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 26,
+                        "mood_effect": 32,
+                        "training_effectiveness": 6,
+                        "initial_friendship": 21,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "hint_frequency": 20,
+                        "specialty_priority": 38,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 25,
+                        "mood_effect": 30,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_frequency": 20,
+                        "specialty_priority": 35,
+                        "skill_point_bonus": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20031",
+        "name": "Shinko Windy",
+        "type": "speed",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 37.5,
+                        "mood_effect": 30,
+                        "speed_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_speed": 25,
+                        "initial_friendship": 15,
+                        "race_bonus": 10,
+                        "fan_bonus": 20,
+                        "specialty_priority": 35
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 35.3,
+                        "mood_effect": 30,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_speed": 23,
+                        "initial_friendship": 15,
+                        "race_bonus": 8,
+                        "fan_bonus": 18,
+                        "specialty_priority": 35
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 34.2,
+                        "mood_effect": 26,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 3,
+                        "initial_speed": 22,
+                        "initial_friendship": 15,
+                        "race_bonus": 7,
+                        "fan_bonus": 17,
+                        "specialty_priority": 30
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 33.1,
+                        "mood_effect": 23,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 1,
+                        "initial_speed": 21,
+                        "initial_friendship": 15,
+                        "race_bonus": 6,
+                        "fan_bonus": 16,
+                        "specialty_priority": 25
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 32,
+                        "mood_effect": 20,
+                        "speed_bonus": 0,
+                        "training_effectiveness": 0,
+                        "initial_speed": 20,
+                        "initial_friendship": 15,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "specialty_priority": 20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20020",
+        "name": "King Halo",
+        "type": "speed",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 30,
+                        "speed_bonus": 1,
+                        "power_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_speed": 20,
+                        "initial_friendship": 25,
+                        "hint_levels": 3,
+                        "hint_frequency": 50,
+                        "specialty_priority": 60
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 30,
+                        "speed_bonus": 1,
+                        "power_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_speed": 20,
+                        "initial_friendship": 23,
+                        "hint_levels": 2,
+                        "hint_frequency": 47,
+                        "specialty_priority": 60
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 26,
+                        "speed_bonus": 1,
+                        "power_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_speed": 20,
+                        "initial_friendship": 22,
+                        "hint_levels": 2,
+                        "hint_frequency": 45,
+                        "specialty_priority": 45
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 23,
+                        "speed_bonus": 1,
+                        "power_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_speed": 20,
+                        "initial_friendship": 21,
+                        "hint_levels": 2,
+                        "hint_frequency": 42,
+                        "specialty_priority": 30
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 20,
+                        "speed_bonus": 1,
+                        "power_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_speed": 20,
+                        "initial_friendship": 20,
+                        "hint_levels": 2,
+                        "hint_frequency": 40,
+                        "specialty_priority": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20005",
+        "name": "Agnes Digital",
+        "type": "power",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 32,
+                        "mood_effect": 30,
+                        "training_effectiveness": 10,
+                        "initial_power": 40,
+                        "initial_friendship": 30,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 2,
+                        "hint_frequency": 40,
+                        "skill_point_bonus": 1
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 32,
+                        "mood_effect": 30,
+                        "training_effectiveness": 8,
+                        "initial_power": 40,
+                        "initial_friendship": 28,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "hint_levels": 2,
+                        "hint_frequency": 37,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 29.8,
+                        "mood_effect": 26,
+                        "training_effectiveness": 7,
+                        "initial_power": 35,
+                        "initial_friendship": 27,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "hint_levels": 2,
+                        "hint_frequency": 35,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 27.6,
+                        "mood_effect": 23,
+                        "training_effectiveness": 6,
+                        "initial_power": 30,
+                        "initial_friendship": 26,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "hint_levels": 2,
+                        "hint_frequency": 32,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 26.5,
+                        "mood_effect": 20,
+                        "training_effectiveness": 5,
+                        "initial_power": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "skill_point_bonus": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20009",
+        "name": "Mihono Bourbon",
+        "type": "power",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 43,
+                        "mood_effect": 40,
+                        "power_bonus": 1,
+                        "initial_power": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_frequency": 20,
+                        "specialty_priority": 50
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 40.8,
+                        "mood_effect": 37,
+                        "power_bonus": 0,
+                        "initial_power": 20,
+                        "initial_friendship": 23,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "hint_frequency": 20,
+                        "specialty_priority": 46
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 39.7,
+                        "mood_effect": 35,
+                        "power_bonus": 0,
+                        "initial_power": 15,
+                        "initial_friendship": 22,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "hint_frequency": 20,
+                        "specialty_priority": 42
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 38.6,
+                        "mood_effect": 32,
+                        "power_bonus": 0,
+                        "initial_power": 10,
+                        "initial_friendship": 21,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "hint_frequency": 20,
+                        "specialty_priority": 38
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 37.5,
+                        "mood_effect": 30,
+                        "power_bonus": 0,
+                        "initial_power": 0,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_frequency": 20,
+                        "specialty_priority": 35
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20027",
+        "name": "Nishino Flower",
+        "type": "power",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 55,
+                        "power_bonus": 1,
+                        "initial_power": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 15,
+                        "fan_bonus": 20,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 50
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 52,
+                        "power_bonus": 0,
+                        "initial_power": 20,
+                        "initial_friendship": 23,
+                        "race_bonus": 13,
+                        "fan_bonus": 18,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 46
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 50,
+                        "power_bonus": 0,
+                        "initial_power": 18,
+                        "initial_friendship": 22,
+                        "race_bonus": 12,
+                        "fan_bonus": 17,
+                        "hint_levels": 1,
+                        "hint_frequency": 25,
+                        "specialty_priority": 42
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 47,
+                        "power_bonus": 0,
+                        "initial_power": 16,
+                        "initial_friendship": 21,
+                        "race_bonus": 11,
+                        "fan_bonus": 16,
+                        "hint_levels": 1,
+                        "hint_frequency": 20,
+                        "specialty_priority": 38
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 45,
+                        "power_bonus": 0,
+                        "initial_power": 15,
+                        "initial_friendship": 20,
+                        "race_bonus": 10,
+                        "fan_bonus": 15,
+                        "hint_levels": 0,
+                        "hint_frequency": 0,
+                        "specialty_priority": 35
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20006",
+        "name": "Biwa Hayahide",
+        "type": "power",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 30,
+                        "stamina_bonus": 1,
+                        "training_effectiveness": 15,
+                        "initial_friendship": 30,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 2,
+                        "hint_frequency": 60,
+                        "specialty_priority": 60
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 30,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 13,
+                        "initial_friendship": 28,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "hint_levels": 2,
+                        "hint_frequency": 57,
+                        "specialty_priority": 60
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 26,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 12,
+                        "initial_friendship": 27,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "hint_levels": 2,
+                        "hint_frequency": 55,
+                        "specialty_priority": 45
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 23,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 11,
+                        "initial_friendship": 26,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "hint_levels": 2,
+                        "hint_frequency": 52,
+                        "specialty_priority": 30
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 20,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 10,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_levels": 2,
+                        "hint_frequency": 50,
+                        "specialty_priority": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20010",
+        "name": "Mejiro Ryan",
+        "type": "power",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 45,
+                        "stamina_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 25,
+                        "race_bonus": 10,
+                        "fan_bonus": 10,
+                        "hint_levels": 3,
+                        "hint_frequency": 50
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 45,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 23,
+                        "race_bonus": 10,
+                        "fan_bonus": 10,
+                        "hint_levels": 2,
+                        "hint_frequency": 47
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 41,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 22,
+                        "race_bonus": 8,
+                        "fan_bonus": 7,
+                        "hint_levels": 2,
+                        "hint_frequency": 45
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 38,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 21,
+                        "race_bonus": 6,
+                        "fan_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 42
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 35,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 0,
+                        "hint_levels": 2,
+                        "hint_frequency": 40
+                    }
+                ]
+            }
+        ]
+    },
+    
+    {
+        "support_id": "support_card_s_20003",
+        "name": "Hishi Amazon",
+        "type": "power",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 43,
+                        "mood_effect": 40,
+                        "stamina_bonus": 1,
+                        "initial_power": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 10,
+                        "fan_bonus": 15,
+                        "specialty_priority": 50
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 40.8,
+                        "mood_effect": 37,
+                        "stamina_bonus": 0,
+                        "initial_power": 20,
+                        "initial_friendship": 23,
+                        "race_bonus": 10,
+                        "fan_bonus": 13,
+                        "specialty_priority": 46
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 39.7,
+                        "mood_effect": 35,
+                        "stamina_bonus": 0,
+                        "initial_power": 15,
+                        "initial_friendship": 22,
+                        "race_bonus": 10,
+                        "fan_bonus": 12,
+                        "specialty_priority": 42
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 38.6,
+                        "mood_effect": 32,
+                        "stamina_bonus": 0,
+                        "initial_power": 10,
+                        "initial_friendship": 21,
+                        "race_bonus": 10,
+                        "fan_bonus": 11,
+                        "specialty_priority": 38
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 37.5,
+                        "mood_effect": 30,
+                        "stamina_bonus": 0,
+                        "initial_power": 0,
+                        "initial_friendship": 20,
+                        "race_bonus": 10,
+                        "fan_bonus": 10,
+                        "specialty_priority": 35
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20024",
+        "name": "Daitaku Helios",
+        "type": "power",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 55,
+                        "power_bonus": 1,
+                        "initial_power": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 10,
+                        "fan_bonus": 20,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 70
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 52,
+                        "power_bonus": 0,
+                        "initial_power": 20,
+                        "initial_friendship": 23,
+                        "race_bonus": 8,
+                        "fan_bonus": 18,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 66
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 50,
+                        "power_bonus": 0,
+                        "initial_power": 18,
+                        "initial_friendship": 22,
+                        "race_bonus": 7,
+                        "fan_bonus": 17,
+                        "hint_levels": 1,
+                        "hint_frequency": 25,
+                        "specialty_priority": 62
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 47,
+                        "power_bonus": 0,
+                        "initial_power": 16,
+                        "initial_friendship": 21,
+                        "race_bonus": 6,
+                        "fan_bonus": 16,
+                        "hint_levels": 1,
+                        "hint_frequency": 20,
+                        "specialty_priority": 58
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 45,
+                        "power_bonus": 0,
+                        "initial_power": 15,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 0,
+                        "hint_frequency": 0,
+                        "specialty_priority": 55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20037",
+        "name": "Fine Motion",
+        "type": "power",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 25,
+                        "power_bonus": 1,
+                        "training_effectiveness": 10,
+                        "initial_friendship": 15,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 35,
+                        "skill_point_bonus": 1
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 23,
+                        "power_bonus": 1,
+                        "training_effectiveness": 8,
+                        "initial_friendship": 15,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 35,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 22,
+                        "power_bonus": 1,
+                        "training_effectiveness": 7,
+                        "initial_friendship": 15,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "hint_levels": 1,
+                        "hint_frequency": 25,
+                        "specialty_priority": 30,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 21,
+                        "power_bonus": 1,
+                        "training_effectiveness": 6,
+                        "initial_friendship": 15,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "hint_levels": 1,
+                        "hint_frequency": 20,
+                        "specialty_priority": 25,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "power_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 15,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_levels": 0,
+                        "hint_frequency": 0,
+                        "specialty_priority": 20,
+                        "skill_point_bonus": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20008",
+        "name": "Manhattan Cafe",
+        "type": "stamina",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 40,
+                        "stamina_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 10,
+                        "fan_bonus": 20,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 70
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 37,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 20,
+                        "initial_friendship": 23,
+                        "race_bonus": 8,
+                        "fan_bonus": 18,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 66
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 35,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 18,
+                        "initial_friendship": 22,
+                        "race_bonus": 7,
+                        "fan_bonus": 17,
+                        "hint_levels": 1,
+                        "hint_frequency": 25,
+                        "specialty_priority": 62
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 32,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 16,
+                        "initial_friendship": 21,
+                        "race_bonus": 6,
+                        "fan_bonus": 16,
+                        "hint_levels": 1,
+                        "hint_frequency": 20,
+                        "specialty_priority": 58
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 30,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 15,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 0,
+                        "hint_frequency": 0,
+                        "specialty_priority": 55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20035",
+        "name": "Tosen Jordan",
+        "type": "stamina",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 30,
+                        "mood_effect": 45,
+                        "stamina_bonus": 1,
+                        "initial_stamina": 20,
+                        "initial_friendship": 30,
+                        "race_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 50
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 28,
+                        "mood_effect": 45,
+                        "stamina_bonus": 0,
+                        "initial_stamina": 20,
+                        "initial_friendship": 28,
+                        "race_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 46
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 27,
+                        "mood_effect": 41,
+                        "stamina_bonus": 0,
+                        "initial_stamina": 18,
+                        "initial_friendship": 27,
+                        "race_bonus": 5,
+                        "hint_levels": 1,
+                        "hint_frequency": 25,
+                        "specialty_priority": 42
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 26,
+                        "mood_effect": 38,
+                        "stamina_bonus": 0,
+                        "initial_stamina": 16,
+                        "initial_friendship": 26,
+                        "race_bonus": 5,
+                        "hint_levels": 1,
+                        "hint_frequency": 20,
+                        "specialty_priority": 38
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 25,
+                        "mood_effect": 35,
+                        "stamina_bonus": 0,
+                        "initial_stamina": 15,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "hint_levels": 0,
+                        "hint_frequency": 0,
+                        "specialty_priority": 35
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20028",
+        "name": "Zenno Rob Roy",
+        "type": "stamina",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 32,
+                        "mood_effect": 40,
+                        "stamina_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 20,
+                        "initial_friendship": 20,
+                        "hint_levels": 3,
+                        "hint_frequency": 50,
+                        "specialty_priority": 60
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 32,
+                        "mood_effect": 37,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 20,
+                        "initial_friendship": 20,
+                        "hint_levels": 2,
+                        "hint_frequency": 47,
+                        "specialty_priority": 60
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 29.8,
+                        "mood_effect": 35,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 20,
+                        "initial_friendship": 18,
+                        "hint_levels": 2,
+                        "hint_frequency": 45,
+                        "specialty_priority": 45
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 27.6,
+                        "mood_effect": 32,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 20,
+                        "initial_friendship": 16,
+                        "hint_levels": 2,
+                        "hint_frequency": 42,
+                        "specialty_priority": 30
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 26.5,
+                        "mood_effect": 30,
+                        "stamina_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 20,
+                        "initial_friendship": 15,
+                        "hint_levels": 2,
+                        "hint_frequency": 40,
+                        "specialty_priority": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20007",
+        "name": "Mayano Top Gun",
+        "type": "stamina",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 37.5,
+                        "mood_effect": 20,
+                        "training_effectiveness": 10,
+                        "initial_stamina": 30,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "specialty_priority": 55,
+                        "skill_point_bonus": 1
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 35.3,
+                        "mood_effect": 20,
+                        "training_effectiveness": 8,
+                        "initial_stamina": 28,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "specialty_priority": 55,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 34.2,
+                        "mood_effect": 15,
+                        "training_effectiveness": 7,
+                        "initial_stamina": 27,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "specialty_priority": 50,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 33.1,
+                        "mood_effect": 10,
+                        "training_effectiveness": 6,
+                        "initial_stamina": 26,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "specialty_priority": 45,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 32,
+                        "mood_effect": 0,
+                        "training_effectiveness": 5,
+                        "initial_stamina": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "specialty_priority": 40,
+                        "skill_point_bonus": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20002",
+        "name": "Daiwa Scarlet",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 30,
+                        "mood_effect": 55,
+                        "wit_bonus": 1,
+                        "initial_friendship": 40,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 50,
+                        "wit_recovery": 4
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 28,
+                        "mood_effect": 52,
+                        "wit_bonus": 0,
+                        "initial_friendship": 38,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 46,
+                        "wit_recovery": 3
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 27,
+                        "mood_effect": 50,
+                        "wit_bonus": 0,
+                        "initial_friendship": 37,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "hint_levels": 1,
+                        "hint_frequency": 25,
+                        "specialty_priority": 42,
+                        "wit_recovery": 3
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 26,
+                        "mood_effect": 47,
+                        "wit_bonus": 0,
+                        "initial_friendship": 36,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "hint_levels": 1,
+                        "hint_frequency": 20,
+                        "specialty_priority": 38,
+                        "wit_recovery": 3
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 25,
+                        "mood_effect": 45,
+                        "wit_bonus": 0,
+                        "initial_friendship": 35,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_levels": 0,
+                        "hint_frequency": 0,
+                        "specialty_priority": 35,
+                        "wit_recovery": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20015",
+        "name": "Marvelous Sunday",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 55,
+                        "wit_bonus": 1,
+                        "initial_wit": 40,
+                        "initial_friendship": 25,
+                        "race_bonus": 10,
+                        "fan_bonus": 20,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 50,
+                        "wit_recovery": 4
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 52,
+                        "wit_bonus": 0,
+                        "initial_wit": 40,
+                        "initial_friendship": 23,
+                        "race_bonus": 8,
+                        "fan_bonus": 18,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 46,
+                        "wit_recovery": 3
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 50,
+                        "wit_bonus": 0,
+                        "initial_wit": 38,
+                        "initial_friendship": 22,
+                        "race_bonus": 7,
+                        "fan_bonus": 17,
+                        "hint_levels": 1,
+                        "hint_frequency": 25,
+                        "specialty_priority": 42,
+                        "wit_recovery": 3
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 47,
+                        "wit_bonus": 0,
+                        "initial_wit": 36,
+                        "initial_friendship": 21,
+                        "race_bonus": 6,
+                        "fan_bonus": 16,
+                        "hint_levels": 1,
+                        "hint_frequency": 20,
+                        "specialty_priority": 38,
+                        "wit_recovery": 3
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 45,
+                        "wit_bonus": 0,
+                        "initial_wit": 35,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 0,
+                        "hint_frequency": 0,
+                        "specialty_priority": 35,
+                        "wit_recovery": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20001",
+        "name": "Fuji Kiseki",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 50,
+                        "wit_bonus": 1,
+                        "initial_wit": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_levels": 2,
+                        "hint_frequency": 40,
+                        "specialty_priority": 35,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 4
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 47,
+                        "wit_bonus": 0,
+                        "initial_wit": 20,
+                        "initial_friendship": 23,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_levels": 2,
+                        "hint_frequency": 37,
+                        "specialty_priority": 35,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 3
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 45,
+                        "wit_bonus": 0,
+                        "initial_wit": 20,
+                        "initial_friendship": 22,
+                        "race_bonus": 3,
+                        "fan_bonus": 7,
+                        "hint_levels": 2,
+                        "hint_frequency": 35,
+                        "specialty_priority": 30,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 3
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 42,
+                        "wit_bonus": 0,
+                        "initial_wit": 20,
+                        "initial_friendship": 21,
+                        "race_bonus": 1,
+                        "fan_bonus": 5,
+                        "hint_levels": 2,
+                        "hint_frequency": 32,
+                        "specialty_priority": 25,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 3
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 40,
+                        "wit_bonus": 0,
+                        "initial_wit": 20,
+                        "initial_friendship": 20,
+                        "race_bonus": 0,
+                        "fan_bonus": 0,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 20,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20034",
+        "name": "Mejiro Ardan",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 55,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 20,
+                        "hint_levels": 3,
+                        "hint_frequency": 70,
+                        "specialty_priority": 35,
+                        "wit_recovery": 4
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 52,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 20,
+                        "hint_levels": 2,
+                        "hint_frequency": 67,
+                        "specialty_priority": 35,
+                        "wit_recovery": 3
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 50,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 3,
+                        "initial_friendship": 18,
+                        "hint_levels": 2,
+                        "hint_frequency": 65,
+                        "specialty_priority": 30,
+                        "wit_recovery": 3
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 47,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 1,
+                        "initial_friendship": 16,
+                        "hint_levels": 2,
+                        "hint_frequency": 62,
+                        "specialty_priority": 25,
+                        "wit_recovery": 3
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 45,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 0,
+                        "initial_friendship": 15,
+                        "hint_levels": 2,
+                        "hint_frequency": 60,
+                        "specialty_priority": 20,
+                        "wit_recovery": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20025",
+        "name": "Ikuno Dictus",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 25,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 10,
+                        "initial_wit": 30,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "specialty_priority": 55,
+                        "skill_point_bonus": 1
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 23,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 8,
+                        "initial_wit": 28,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "specialty_priority": 55,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 22,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 7,
+                        "initial_wit": 27,
+                        "initial_friendship": 15,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "specialty_priority": 50,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 21,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 6,
+                        "initial_wit": 26,
+                        "initial_friendship": 10,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "specialty_priority": 45,
+                        "skill_point_bonus": 0
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_wit": 25,
+                        "initial_friendship": 0,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "specialty_priority": 40,
+                        "skill_point_bonus": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20016",
+        "name": "Matikanefukukitaru",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 32,
+                        "mood_effect": 50,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 40,
+                        "hint_levels": 2,
+                        "hint_frequency": 40,
+                        "specialty_priority": 35,
+                        "wit_recovery": 4
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 32,
+                        "mood_effect": 47,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 38,
+                        "hint_levels": 2,
+                        "hint_frequency": 37,
+                        "specialty_priority": 35,
+                        "wit_recovery": 3
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 29.8,
+                        "mood_effect": 45,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 3,
+                        "initial_friendship": 37,
+                        "hint_levels": 2,
+                        "hint_frequency": 35,
+                        "specialty_priority": 30,
+                        "wit_recovery": 3
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 27.6,
+                        "mood_effect": 42,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 1,
+                        "initial_friendship": 36,
+                        "hint_levels": 2,
+                        "hint_frequency": 32,
+                        "specialty_priority": 25,
+                        "wit_recovery": 3
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 26.5,
+                        "mood_effect": 40,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 0,
+                        "initial_friendship": 35,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "specialty_priority": 20,
+                        "wit_recovery": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20018",
+        "name": "Mejiro Dober",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 30,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 15,
+                        "initial_wit": 40,
+                        "initial_friendship": 30,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_levels": 2,
+                        "hint_frequency": 40,
+                        "wit_recovery": 4
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 30,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 13,
+                        "initial_wit": 40,
+                        "initial_friendship": 28,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "hint_levels": 2,
+                        "hint_frequency": 37,
+                        "wit_recovery": 3
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 26,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 12,
+                        "initial_wit": 35,
+                        "initial_friendship": 27,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "hint_levels": 2,
+                        "hint_frequency": 35,
+                        "wit_recovery": 3
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 23,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 11,
+                        "initial_wit": 30,
+                        "initial_friendship": 26,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "hint_levels": 2,
+                        "hint_frequency": 32,
+                        "wit_recovery": 3
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 20,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 10,
+                        "initial_wit": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "hint_levels": 2,
+                        "hint_frequency": 30,
+                        "wit_recovery": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20026",
+        "name": "Nice Nature",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 30,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 15,
+                        "initial_wit": 20,
+                        "initial_friendship": 30,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "wit_recovery": 3
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 30,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 13,
+                        "initial_wit": 20,
+                        "initial_friendship": 28,
+                        "race_bonus": 5,
+                        "fan_bonus": 13,
+                        "wit_recovery": 3
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 26,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 12,
+                        "initial_wit": 20,
+                        "initial_friendship": 27,
+                        "race_bonus": 5,
+                        "fan_bonus": 12,
+                        "wit_recovery": 3
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 23,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 6,
+                        "initial_friendship": 26,
+                        "race_bonus": 5,
+                        "fan_bonus": 11,
+                        "wit_recovery": 1
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 20,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_friendship": 25,
+                        "race_bonus": 5,
+                        "fan_bonus": 10,
+                        "wit_recovery": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "support_id": "support_card_s_20012",
+        "name": "Agnes Tachyon",
+        "type": "intelligence",
+        "effects": [
+            {
+                "mlb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 40,
+                        "wit_bonus": 1,
+                        "training_effectiveness": 5,
+                        "initial_wit": 20,
+                        "initial_friendship": 25,
+                        "race_bonus": 10,
+                        "fan_bonus": 20,
+                        "hint_frequency": 20,
+                        "specialty_priority": 50,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 4
+                    }
+                ],
+                "3lb": [
+                    {
+                        "friendship_bonus": 20,
+                        "mood_effect": 37,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 5,
+                        "initial_wit": 20,
+                        "initial_friendship": 23,
+                        "race_bonus": 8,
+                        "fan_bonus": 18,
+                        "hint_frequency": 20,
+                        "specialty_priority": 46,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 3
+                    }
+                ],
+                "2lb": [
+                    {
+                        "friendship_bonus": 18,
+                        "mood_effect": 35,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 3,
+                        "initial_wit": 18,
+                        "initial_friendship": 22,
+                        "race_bonus": 7,
+                        "fan_bonus": 17,
+                        "hint_frequency": 20,
+                        "specialty_priority": 42,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 3
+                    }
+                ],
+                "1lb": [
+                    {
+                        "friendship_bonus": 16,
+                        "mood_effect": 32,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 1,
+                        "initial_wit": 16,
+                        "initial_friendship": 21,
+                        "race_bonus": 6,
+                        "fan_bonus": 16,
+                        "hint_frequency": 20,
+                        "specialty_priority": 38,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 3
+                    }
+                ],
+                "0lb": [
+                    {
+                        "friendship_bonus": 15,
+                        "mood_effect": 30,
+                        "wit_bonus": 0,
+                        "training_effectiveness": 0,
+                        "initial_wit": 15,
+                        "initial_friendship": 20,
+                        "race_bonus": 5,
+                        "fan_bonus": 15,
+                        "hint_frequency": 20,
+                        "specialty_priority": 35,
+                        "skill_point_bonus": 1,
+                        "wit_recovery": 3
+                    }
+                ]
+            }
+        ]
+    }
+]
+
