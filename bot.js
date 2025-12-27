@@ -383,4 +383,8 @@ function calculateRating(arr) {
 }
  
 
-client.login(process.env.TOKEN);
+client.login(process.env.TOKEN).catch(error => {
+    console.error('Failed to login:', error.message);
+    console.error('Full error:', error);
+    process.exit(1);
+});
