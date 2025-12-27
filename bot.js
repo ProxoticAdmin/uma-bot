@@ -1,6 +1,9 @@
 require('dotenv').config();
 
 const cardsData = require('./umamusume.json')
+let keepAlive = require('./keep_alive.mjs')
+
+keepAlive();
 
 const { 
     Client, 
